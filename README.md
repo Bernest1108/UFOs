@@ -5,7 +5,7 @@ The purpose of this project was to provide a way to display the collected data o
 ## Results
 **Landing Page**
 
-[image](https://user-images.githubusercontent.com/100445489/167856096-908c843b-3436-4e7b-8218-e3c6256875d7.png)
+![image](https://user-images.githubusercontent.com/100445489/167856096-908c843b-3436-4e7b-8218-e3c6256875d7.png)
 
 
 When entering the page, the page displays the picture above. Scrolling through, you can see the complete unfilterd data as displayed below:

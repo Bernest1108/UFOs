@@ -10,19 +10,22 @@ The purpose of this project was to provide an easily accessible way to display t
 
 When entering the page, the page displays such as the picture above. Scrolling through, you can see the complete unfilterd data, such as what is displayed below:
 
-!https://github.com/Bernest1108/UFOs/blob/main/snip_results/table_unfiltered.PNG
+!![image](https://user-images.githubusercontent.com/100445489/167856335-c4e20539-afb9-4832-9969-46961a30a465.png)
+
 
 On the left hand side of the HTML page, you will see the input boxes where you are able to input the filters needed or wanted. 
 
 **Filter Boxes**
 
-!https://github.com/Bernest1108/UFOs/blob/main/snip_results/Searching_Box.PNG
+!![image](https://user-images.githubusercontent.com/100445489/167856403-aeb1a3a9-c3da-4b9e-bd8a-0855adc35c36.png)
+
 
 The script will detect a change in the box after typing and will then filter the data and display the row in which all filters apply.
 
 **A filtered search**
 
-!https://github.com/Bernest1108/UFOs/blob/main/snip_results/table_filtered.PNG
+!![image](https://user-images.githubusercontent.com/100445489/167856461-820477b6-0563-429f-ad3f-09ed859dc465.png)
+
 
 ## Summary
 

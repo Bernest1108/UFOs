@@ -5,7 +5,8 @@ The purpose of this project was to provide an easily accessible way to display t
 ## Results
 **Landing Page**
 
-!https://github.com/Bernest1108/UFOs/blob/main/snip_results/Landing_Page.png
+!![image](https://user-images.githubusercontent.com/100445489/167856096-908c843b-3436-4e7b-8218-e3c6256875d7.png)
+
 
 When entering the page, the page displays such as the picture above. Scrolling through, you can see the complete unfilterd data, such as what is displayed below:
 
